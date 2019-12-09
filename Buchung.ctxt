@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Buchung
+comment1.params=dauer\ preis\ restpreis
+comment1.target=Buchung(double,\ double,\ double)
+comment2.params=restpreis
+comment2.target=void\ setRestpreis(double)
+comment3.params=
+comment3.target=double\ getRestpreis()
+comment4.params=preis
+comment4.target=void\ setPreis(double)
+comment5.params=
+comment5.target=double\ getPreis()
+comment6.params=dauer
+comment6.target=void\ setDauer(double)
+comment7.params=
+comment7.target=double\ getDauer()
+numComments=8

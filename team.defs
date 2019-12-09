@@ -1,0 +1,17 @@
+#Mon Dec 09 10:01:23 CET 2019
+bluej.teamsettings.groupname=
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.yourName=Geilermann
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.yourEmail=58554159+AntGeilerman@users.noreply.github.com
+bluej.teamsettings.git.repositoryPrefix=/AntGeilerman/Paintball-Halle-L-C-A.git
+bluej.teamsettings.vcs=git
+bluej.teamsettings.user=AntGeilerman
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.ignore8=\\.DS_Store

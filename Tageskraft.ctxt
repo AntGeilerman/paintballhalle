@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Tageskraft
+comment1.params=name\ vorname\ alter
+comment1.target=Tageskraft(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tageskraft\r\n
+numComments=2
