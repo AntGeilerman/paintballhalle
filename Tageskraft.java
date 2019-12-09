@@ -1,16 +1,45 @@
 
-public class Tageskraft extends Mitarbeiter
+public class Tageskraft
 {
     // instance variables - replace the example below with your own
+    private String name;
+    private String vorname;
+    private int alter;
+    private Kunde kunde;
     
     
-    /**
-     * Constructor for objects of class Tageskraft
-     */
     public Tageskraft(String name, String vorname, int alter)
     {
-        // initialise instance variables
-        super(name, vorname, alter);
+        setName(name);
+        setVorname(vorname);
+        setAlter(alter);
+    }
+    
+    private void setName(String name)
+    {
+        this.name = name;
+    }
+    private void setVorname(String vorname)
+    {
+        this.vorname = vorname;
+    }
+    private void setAlter(int alter)
+    {
+        this.alter = alter;
+    }
+    
+    
+    public String getName()
+    {
+        return this.name;
+    }
+    public String getVorname()
+    {
+        return this.vorname;
+    }
+    public int getAlter()
+    {
+        return this.alter;
     }
 
 }

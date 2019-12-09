@@ -1,13 +1,13 @@
 
-public class Verwalter extends Mitarbeiter
+public class Verwalter
 {
     // instance variables - replace the example below with your own
     
 
-    public Verwalter(String name, String vorname, int alter)
+    public Verwalter()
     {
         // initialise instance variables
-        super(name, vorname, alter);
+        
     }
 
 }
